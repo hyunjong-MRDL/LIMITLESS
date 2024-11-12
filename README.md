@@ -7,3 +7,5 @@
 - B.S. at KNU, 2019~2024
 ## Current Tasks:
 1. Liver Tumor Segmentation
+
+2. Multi-modal AI4TB Challenge 2024 (MAIC, SNU Hospital)
